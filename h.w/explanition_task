@@ -1,0 +1,16 @@
+Explanation Tasks (Write short answers): 
+
+
+1. Explain the purpose of the main function in Dart. 
+ 
+Main function is : the start point where the program starts running. 
+ 
+ 
+2. Describe the difference between var, dynamic, and explicitly typed 
+variables in Dart. 
+ 
+Var :is a keyword  decided the type from the first value and you cannot change  . 
+dynamic :  is a data type decided from the first value but you can change the 
+data type any time. 
+
+Explicit type (int ,String , ….) : you choose the data type and can't change .  
